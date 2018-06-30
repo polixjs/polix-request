@@ -1,0 +1,26 @@
+{
+  "name": "polix-request",
+  "version": "0.0.1",
+  "description": "request plugin for polix",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polixjs/polix-request.git"
+  },
+  "keywords": [
+    "polix",
+    "request",
+    "polix-request"
+  ],
+  "author": "zhoumq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/polixjs/polix-request/issues"
+  },
+  "homepage": "https://github.com/polixjs/polix-request#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
